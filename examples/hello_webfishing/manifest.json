@@ -1,0 +1,12 @@
+{
+  "id": "example.hello",
+  "name": "Hello WEBFISHING",
+  "version": "1.0.0",
+  "author": "Example mod",
+  "description": "Says hello and counts it. Shows settings and a Mods menu button.",
+  "api_version": 1,
+  "network_scope": "client",
+  "entry": "main.gd",
+  "dependencies": {},
+  "default_settings": { "greetings": 0 }
+}

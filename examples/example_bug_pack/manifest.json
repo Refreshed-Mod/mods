@@ -1,0 +1,11 @@
+{
+  "id": "example.extra_bugs",
+  "name": "Example bug addon",
+  "version": "1.0.0",
+  "author": "WEBFISHING Refreshed",
+  "description": "Adds a firefly to Bug catching.",
+  "api_version": 1,
+  "network_scope": "content",
+  "dependencies": { "refreshed.bugs": "1.1.0" },
+  "items": { "firefly": { "resource": "firefly.tres" } }
+}

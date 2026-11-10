@@ -1,0 +1,9 @@
+{
+  "id": "refreshed.day_night",
+  "name": "Day and night",
+  "version": "1.0.0",
+  "author": "RestoreDev",
+  "description": "Day and night cycle, follows local time or does a 30 minute day.",
+  "api_version": 1,
+  "network_scope": "content"
+}

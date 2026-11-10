@@ -1,0 +1,12 @@
+{
+  "id": "example.api_demo",
+  "name": "Mod API Demo",
+  "version": "1.0.0",
+  "author": "Port contributors",
+  "description": "Uses every API call: settings, events, maps, cosmetics, species, items, fish, loot and shops.",
+  "api_version": 1,
+  "network_scope": "content",
+  "entry": "main.gd",
+  "dependencies": {},
+  "default_settings": {"checks": 0}
+}

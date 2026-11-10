@@ -4,6 +4,8 @@ The catalog for the in-game mod browser. Each folder in `packages/` is one mod. 
 
 Listing a mod here doesn't give it a license. Only add mods you're allowed to share.
 
+Making a mod? Start with [docs/MODDING.md](docs/MODDING.md) and the [examples](examples).
+
 ## Add a mod
 
 1. Fork this repo.
@@ -49,4 +51,4 @@ Bump `version` in `manifest.json`, point `download.url` at the new release, run 
 
 ## Contributing
 
-Please don't send vibecoded PRs. Only send changes you understand and tested yourself, and say what you changed and why. PRs that look generated without that will be closed.
+Please don't send vibecoded PRs. Only send changes you understand and tested yourself, If you use AI read and understand why and how the changes work before sending them in. PRs that look generated without that will be closed, However I'm only gonna moderate changes to the core, i will not moderate individual mods.

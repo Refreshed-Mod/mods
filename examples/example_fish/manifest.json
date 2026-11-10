@@ -1,0 +1,11 @@
+{
+  "id": "example.fish",
+  "name": "Example Fish",
+  "version": "1.0.0",
+  "author": "Port contributors",
+  "description": "Adds a lake fish, its own loot table and sells it in the general store.",
+  "api_version": 1,
+  "network_scope": "content",
+  "entry": "main.gd",
+  "dependencies": {}
+}
